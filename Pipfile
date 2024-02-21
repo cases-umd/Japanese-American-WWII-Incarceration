@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
+networkx = "*"
+openpyxl = "*"
+fuzzywuzzy = "*"
+python-Levenshtein = "*"
+libindic-soundex = "*"
+libindic.utils = "*"
 
 [dev-packages]
 notebook = "*"
