@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
+matplotlib = "*"
 cufflinks = "*"
 geopandas = "*"
 networkx = "*"
@@ -14,6 +15,7 @@ fuzzywuzzy = "*"
 python-Levenshtein = "*"
 libindic-soundex = "*"
 libindic-utils = "*"
+bokeh = "*"
 
 [dev-packages]
 notebook = "*"
